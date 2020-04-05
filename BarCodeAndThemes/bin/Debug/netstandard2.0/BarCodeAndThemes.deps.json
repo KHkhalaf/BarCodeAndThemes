@@ -1,0 +1,148 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BarCodeAndThemes/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Essentials": "1.5.2",
+          "Xamarin.Forms": "4.6.0.529-pre3",
+          "ZXing.Net.Mobile.Forms": "3.0.0-beta5"
+        },
+        "runtime": {
+          "BarCodeAndThemes.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.6.0.529-pre3": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.352"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.352"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.352"
+          }
+        }
+      },
+      "ZXing.Net.Mobile/3.0.0-beta5": {
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZXingNetMobile.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          },
+          "lib/netstandard2.0/zxing.dll": {
+            "assemblyVersion": "0.16.5.0",
+            "fileVersion": "0.16.5.0"
+          }
+        }
+      },
+      "ZXing.Net.Mobile.Forms/3.0.0-beta5": {
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2",
+          "Xamarin.Forms": "4.6.0.529-pre3",
+          "ZXing.Net.Mobile": "3.0.0-beta5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZXing.Net.Mobile.Forms.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarCodeAndThemes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YImbd1o6CxSz6yQoRM2y/wT94LPr19Aq1c9dR9eDKiJFtACrXyzXOM8+791/x6EGof+fbgLaq+cWnuIcJCd2Kg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qHxkrkx5jIC0X/qWhxCPZ3MuuOJm8bfCzAoUtlpOBSE4oV0JhrkTezK0A+IV+k/MeJ3zKc8FexaIXah9rlCTIw==",
+      "path": "xamarin.essentials/1.5.2",
+      "hashPath": "xamarin.essentials.1.5.2.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.6.0.529-pre3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HfzhJhU6LWNkuPXETIqoIzTOZYXl1fZ1YpNtzL/SAyw9PrysD4UitdRpy0IlE/X2sjmvGH95yUqtmIXXG7tSOw==",
+      "path": "xamarin.forms/4.6.0.529-pre3",
+      "hashPath": "xamarin.forms.4.6.0.529-pre3.nupkg.sha512"
+    },
+    "ZXing.Net.Mobile/3.0.0-beta5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlRphSYEiCc62vIcaX22z46kLnyLVqzYXuUk1aOtvtn8ZOLfQPuS43p73B1c/VLNnDbwrvZ+LhN2MGoxU+lWBg==",
+      "path": "zxing.net.mobile/3.0.0-beta5",
+      "hashPath": "zxing.net.mobile.3.0.0-beta5.nupkg.sha512"
+    },
+    "ZXing.Net.Mobile.Forms/3.0.0-beta5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T7V68m6c19KIjZnr59V9VxD6MW/r9VMrd5QD+JJPPEsedszFDAu0w7MkwxJHOsarHef6rTRBBHFrLe+QWDOG0w==",
+      "path": "zxing.net.mobile.forms/3.0.0-beta5",
+      "hashPath": "zxing.net.mobile.forms.3.0.0-beta5.nupkg.sha512"
+    }
+  }
+}

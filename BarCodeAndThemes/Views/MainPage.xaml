@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:views="clr-namespace:BarCodeAndThemes.Views"
+             x:Class="BarCodeAndThemes.MainPage"
+             Shell.FlyoutBehavior="Disabled">
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Color x:Key="ThemeColor">#65bcf6</Color>
+            <Color x:Key="TabUnselectedColor">#606060</Color>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.TabBarBackgroundColor" Value="{DynamicResource ShellElementbgColor}"/>
+                <Setter Property="Shell.TabBarForegroundColor" Value="{StaticResource ThemeColor}"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="{StaticResource TabUnselectedColor}"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="{StaticResource ThemeColor}"/>
+                <Setter Property="Shell.TitleColor" Value="Black"/>
+                <Setter Property="Shell.BackgroundColor" Value="{DynamicResource ShellElementbgColor}"/>
+            </Style>
+            <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}"/>
+        </ResourceDictionary>
+    </Shell.Resources>
+
+    <FlyoutItem Title="Home">
+        <Tab Title="ScannerQR">
+            <ShellContent ContentTemplate="{DataTemplate views:QrScanner}"/>
+        </Tab>
+        <Tab Title="GeneratorQR">
+            <ShellContent ContentTemplate="{DataTemplate views:QRGenerator}"/>
+        </Tab>
+    </FlyoutItem>
+
+</Shell>

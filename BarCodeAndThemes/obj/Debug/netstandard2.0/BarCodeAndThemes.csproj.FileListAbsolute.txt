@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\bin\Debug\netstandard2.0\BarCodeAndThemes.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\bin\Debug\netstandard2.0\BarCodeAndThemes.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\bin\Debug\netstandard2.0\ref\BarCodeAndThemes.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\bin\Debug\netstandard2.0\BarCodeAndThemes.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\Themes\DarkTheme.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\Views\QRGenerator.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\Views\QrScanner.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\BarCodeAndThemes.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\BarCodeAndThemes.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\BarCodeAndThemes.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\ref\BarCodeAndThemes.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\BarCodeAndThemes.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BarCodeAndThemes\BarCodeAndThemes\obj\Debug\netstandard2.0\BarCodeAndThemes.csprojAssemblyReference.cache

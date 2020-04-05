@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxcm="clr-namespace:ZXing.Common;assembly=zxing"
+             mc:Ignorable="d"
+             x:Class="BarCodeAndThemes.Views.QRGenerator"
+             Title="QR Generator">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{DynamicResource PageBackgroundColor}" Spacing="10">
+            <Entry x:Name="txtBarcode" 
+                   Placeholder="Text Do scan" 
+                   Style="{StaticResource EntryStyle}"/>
+            <Button x:Name="GenerateQR" 
+                    Text="Generate QR" 
+                    Style="{StaticResource ButtonStyle}"
+                    Clicked="GenerateQR_Clicked"/>
+            <zxing:ZXingBarcodeImageView
+                            x:Name="BarcodeImage"
+                            BarcodeValue = "Hello :)"
+                            BarcodeFormat="QR_CODE"
+                            HorizontalOptions="FillAndExpand"
+                            VerticalOptions="FillAndExpand">
+                <zxing:ZXingBarcodeImageView.BarcodeOptions>
+                    <zxcm:EncodingOptions Width="200" Height="200" />
+                </zxing:ZXingBarcodeImageView.BarcodeOptions>
+            </zxing:ZXingBarcodeImageView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
