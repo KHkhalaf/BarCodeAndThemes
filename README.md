@@ -6,8 +6,8 @@ scan and generate QR code using ZXing.Net.Mobile.Forms nuget and apply some them
 
 ![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/firstWhite.png)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondWhite.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondWhite.png)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/firstBlack.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/firstBlack.png)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondBlack.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondBlack.png)
