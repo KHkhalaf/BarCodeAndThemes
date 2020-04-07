@@ -4,10 +4,10 @@ scan and generate QR code using ZXing.Net.Mobile.Forms nuget and apply some them
 ![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/scan%26generate.gif)
 
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A4%D9%A0%D9%A5-%D9%A2%D9%A2%D9%A4%D9%A2%D9%A0%D9%A8.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/firstWhite.png)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A4%D9%A0%D9%A5-%D9%A2%D9%A2%D9%A4%D9%A2%D9%A1%D9%A3.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondWhite.jpg)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A4%D9%A0%D9%A5-%D9%A2%D9%A2%D9%A4%D9%A2%D9%A1%D9%A9.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/firstBlack.jpg)
 
-![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A4%D9%A0%D9%A5-%D9%A2%D9%A2%D9%A4%D9%A2%D9%A2%D9%A2.jpg)
+![alt text](https://github.com/KHkhalaf/BarCodeAndThemes/blob/master/images/secondBlack.jpg)
